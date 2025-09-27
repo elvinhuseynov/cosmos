@@ -32,6 +32,8 @@ Sahələr (hər heyət üzvü üçün):
 
     Təcrübə Səviyyəsi: NumberInput komponenti - 1-dən 10-a qədər.
 
+    Komandir tək başına sadəcə təchizat missiyasına çıxa bilər
+
 Validasiya Qaydaları:
 
     Missiyada minimum 3, maksimum 7 heyət üzvü olmalıdır. Kosmosda tək qalmaq təhlükəlidir.
